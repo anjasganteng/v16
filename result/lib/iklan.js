@@ -16,7 +16,7 @@ const iklan = () => {
 ╠═══════════════════════════
 ╠➥ *JIKA MINAT IKLAN DIATAS*
 ╠➥ *HARAP HUBUNGI NOMOR DIBAWAH :*
-╠➥ *wa.me/6289512545999*
+╠➥ *wa.me/6285848325033*
 ║
 ╚═〘  ${namabot} 〙✪══
 `
